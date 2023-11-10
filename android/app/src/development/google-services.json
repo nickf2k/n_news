@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019287326171",
+    "project_id": "nnews-dev",
+    "storage_bucket": "nnews-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019287326171:android:8954bc180840f5b81f6bfe",
+        "android_client_info": {
+          "package_name": "com.nickf2k.nnews.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_5CfDhPMxS2Q3zbU-x5Hf4foI-QuldtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

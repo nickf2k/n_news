@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "805796790227",
+    "project_id": "nnews-82178",
+    "storage_bucket": "nnews-82178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805796790227:android:ff0d023cf693830259b926",
+        "android_client_info": {
+          "package_name": "com.nickf2k.nnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805796790227-vkdi72t8beu2gkulofe7sku2fndo36nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTBQbLpETqy45_GjFiJx8mNLGL2xIEwDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805796790227-vkdi72t8beu2gkulofe7sku2fndo36nk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "805796790227-jhrq5vfks085g9piff6u8q1gon2lcdi3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nickf2k.nnews"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
