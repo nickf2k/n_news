@@ -1,9 +1,12 @@
+// ignore_for_file: always_use_package_imports
+
 import 'package:app_ui/app_ui.dart';
 import 'package:flutter/material.dart';
-import 'package:gallery/colors/colors.dart';
-import 'package:gallery/spacing/spacing.dart';
-import 'package:gallery/typography/typography.dart';
-import 'package:gallery/widgets/widgets.dart';
+
+import 'colors/colors.dart';
+import 'spacing/spacing.dart';
+import 'typography/typography.dart';
+import 'widgets/widgets.dart';
 
 void main() => runApp(const MyApp());
 

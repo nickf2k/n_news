@@ -1,5 +1,8 @@
+// ignore_for_file: always_use_package_imports
+
 import 'package:flutter/material.dart';
-import 'package:gallery/widgets/widgets.dart';
+
+import 'widgets.dart';
 
 class WidgetsPage extends StatelessWidget {
   const WidgetsPage({super.key});
